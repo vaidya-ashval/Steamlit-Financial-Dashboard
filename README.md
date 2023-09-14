@@ -17,9 +17,20 @@ The dashboard includes the following tabs:
 **Your own analysis**: This tab is for my own analysis of the stock. I can add any financial analyses or additional information that I am interested in.
 The dashboard is built using Python and the Streamlit library. It is deployed on the Streamlit Community Cloud.
 
-## Link https://beckrocks-steamlit-financial-dashboard-ind-project-rxdvpw.streamlit.app/
+## Link 
+https://beckrocks-steamlit-financial-dashboard-ind-project-rxdvpw.streamlit.app/
 
 ## Snapshots
 ![image](https://github.com/vaidya-ashval/Steamlit-Financial-Dashboard/assets/119542733/f7719fd1-c392-45fd-a92a-7c0c403662fa)
 -------------
+![image](https://github.com/vaidya-ashval/Steamlit-Financial-Dashboard/assets/119542733/b08af86c-f8c7-4d94-b530-8d2c4ea633b0)
+-------------
+![image](https://github.com/vaidya-ashval/Steamlit-Financial-Dashboard/assets/119542733/e4d00009-470a-4f92-8d6a-97a0882ccac3)
+-------------
+![image](https://github.com/vaidya-ashval/Steamlit-Financial-Dashboard/assets/119542733/52ebb000-146f-4377-aa61-b7a485040718)
+-------------
+![image](https://github.com/vaidya-ashval/Steamlit-Financial-Dashboard/assets/119542733/d97e73fa-7682-4f6d-a0f8-fbcc32ae09cd)
+-------------
+
+
 
