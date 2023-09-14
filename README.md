@@ -1,11 +1,13 @@
 # Steamlit-Financial-Dashboard
 
-This project is a **Python** programming assignment where I constructed a dashboard to present the financial data extracted from **Yahoo Finance** service together with some financial analyses.
-
-**Tools and Technologies used** --
+## Tools and Technologies used
 Python
 Streamlit Python Library 
 Spyder IDE
+
+## About
+This project is a **Python** programming assignment where I constructed a dashboard to present the financial data extracted from **Yahoo Finance** service together with some financial analyses.
+
 
 The dashboard includes the following tabs:
 
