@@ -22,7 +22,7 @@ The dashboard includes the following tabs:
 **Your own analysis**: This tab is for my own analysis of the stock. I can add any financial analyses or additional information that I am interested in.
 The dashboard is built using Python and the Streamlit library. It is deployed on the Streamlit Community Cloud.
 
-## Link 
+## App Link 
 https://beckrocks-steamlit-financial-dashboard-ind-project-rxdvpw.streamlit.app/
 
 ## Snapshots
