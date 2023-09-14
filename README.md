@@ -1,8 +1,8 @@
 # Steamlit-Financial-Dashboard
 
 ## Tools and Technologies used
-Python
-Streamlit Python Library 
+Python |
+Streamlit Python Library |
 Spyder IDE
 
 ## About
